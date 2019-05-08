@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphaFX.WordCount", "AlphaFX.WordCount\AlphaFX.WordCount.csproj", "{7935AA84-FE85-4A17-B915-9FCE6CD6B117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphaFX.WordCountTests", "AlphaFX.WordCountTests\AlphaFX.WordCountTests.csproj", "{7E5F3B53-B836-4E82-8A4A-F9FF06E1F9F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7935AA84-FE85-4A17-B915-9FCE6CD6B117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7935AA84-FE85-4A17-B915-9FCE6CD6B117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7935AA84-FE85-4A17-B915-9FCE6CD6B117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7935AA84-FE85-4A17-B915-9FCE6CD6B117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E5F3B53-B836-4E82-8A4A-F9FF06E1F9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5F3B53-B836-4E82-8A4A-F9FF06E1F9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5F3B53-B836-4E82-8A4A-F9FF06E1F9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5F3B53-B836-4E82-8A4A-F9FF06E1F9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {580F4EA5-1257-45EA-AC1A-06D2A9B648D7}
+	EndGlobalSection
+EndGlobal
